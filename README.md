@@ -8,15 +8,15 @@ Each of these challenges requires you to consume the [Studio Ghibili API](https:
 
 **Challenge 1**
 
-Write code to print out the names of all Studio Ghibili films.
+- [x] Write code to print out the names of all Studio Ghibili films.
 
-_extension 1_: Refactor your code to define 3 different Ruby classes and make use of those classes.
+- [] _extension 1_: Refactor your code to define 3 different Ruby classes and make use of those classes.
 
-_extension 2_: Refactor your code so that no method body is longer than 5 lines of code.
+- [] _extension 2_: Refactor your code so that no method body is longer than 5 lines of code.
 
 **Challenge 2**
 
-Write code to print out the names of all People from Studio Ghibili films.
+- [x] Write code to print out the names of all People from Studio Ghibili films.
 
 _extension_: In addition to printing the name for each person, print out the name of each film they appear in.
 
